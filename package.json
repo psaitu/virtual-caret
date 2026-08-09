@@ -1,0 +1,16 @@
+{
+  "name": "virtual-caret-electron",
+  "version": "1.0.0",
+  "description": "Bike-style fluid-typing virtual caret, as a native Electron app",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": ["electron", "virtual-caret", "fluid-typing"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^33.0.0"
+  }
+}
