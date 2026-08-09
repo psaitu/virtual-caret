@@ -7,6 +7,8 @@ The native text caret is hidden and replaced by a **virtual caret** — a red ba
 that *smoothly glides* to each new cursor position as you type, click, or move
 around, giving typing that fluid, animated feel.
 
+![Virtual Caret demo](demo/demo.gif)
+
 ## Run
 
 ```bash
